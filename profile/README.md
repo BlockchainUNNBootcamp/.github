@@ -1,8 +1,7 @@
-## Hi there, Welcome to the official BlockchainUNN Developer Bootcamp organisation page 👋
+## 👋 Welcome to the Official BlockchainUNN Developer Bootcamp GitHub Organization
 
 # BlockchainUNN
-![BlockchainUNN Logo](https://drive.usercontent.google.com/download?id=1WRLvXvvLD8z4ubWtbHlD-NL-ujF0-6wW&export=view)
-**BlockchainUNN** is a student-led developer community at the University of Nigeria, Nsukka, focused on building technical talent in Web2 and blockchain technologies. We foster a culture of hands-on learning, collaboration, and innovation through events, workshops, and open-source contribution.
+**BlockchainUNN** is a student-led developer community at the University of Nigeria, Nsukka, focused on building technical talent in Web2 and blockchain technologies. We foster a culture of hands-on learning, collaboration, and innovation through events, workshops, and open-source contributions.
 
 ## Developer Bootcamp
 
